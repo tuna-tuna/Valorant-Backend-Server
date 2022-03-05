@@ -1,5 +1,7 @@
 # Valorant Backend Server
 
+[English Version is here](https://github.com/tuna-tuna/Valorant-Backend-Server/blob/master/README_EN.md)
+
 ## About
 
 - Valorantのゲームクライアントで使用されているAPIにアクセスし、そのレスポンスをjson形式で提供するバックエンドサーバーです。
