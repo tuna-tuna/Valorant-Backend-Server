@@ -10,6 +10,6 @@ fastapi = {extras = ["all"], version = "*"}
 uvicorn = "*"
 fastapi-cache2 = {extras = ["redis"], version = "*"}
 aioredis = "*"
+gunicorn = "*"
 
 [dev-packages]
-
